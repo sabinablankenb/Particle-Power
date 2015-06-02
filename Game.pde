@@ -49,6 +49,7 @@ class Game {
       {
         greenFlock.boids.remove(i);
         score++;
+        enemies--;
       }
     }
 
